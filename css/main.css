@@ -1,0 +1,157 @@
+/*ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+*/
+/*.navbar .navbar-inverse{
+  position: fixed;
+}*/
+
+/*ul {
+  position: fixed;
+  list-style-type: none;
+  margin: 0;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li:last-child{
+  border-right: none;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}*/
+
+/* Change the link color to #111 (black) on hover */
+/*li a:hover {
+  color: grey;
+}
+li a:active {
+  background-color: white;
+  color: blue;
+}*/
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+img{
+  width: 20%;
+    height: 32%;
+    border-radius: 50%;
+    margin-left: 5%;
+}
+.section {
+  display: block;
+    height: 100%;
+    padding-top:11%;
+}
+#about{
+  padding-top:10%;
+}
+.about{
+  font-size: larger;
+    font-style: oblique;
+    margin-left:7%;
+    padding-top: 3%;
+}
+#Contact{
+  padding-left:6%;
+}
+.navbar-nav  a.active{
+  color: #fff;
+}
+
+.navbar-nav > .active > a:hover,
+
+.navbar-nav > .active > a:focus {
+
+    color: #00B309;
+
+    background-color: #FF0004;
+
+}
+/*#iitk-logo{
+  float: left;
+  margin-left:15%;
+
+  }
+#nitw-logo {
+    float: right;
+    margin-right: 20%;
+}
+.logo-content{
+  width:50%;
+  display:block;
+  }*/
+  
+/*.nav-link{
+  color: #fff;
+}*/
+/*table,th,td,tr{
+  font-size: 42px;
+  border: solid 2px black;
+  border-width: 5px;
+  border-color: grey;
+  border-radius: 3px;
+}
+table{
+  margin-top: 15%;
+  margin-left: 8%;
+}*/
+
+#fb-link,#g-link,#linked-in{
+  display: block;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+/*.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+
+}
+#fb-link{
+  margin-top: 10%;
+}*/ 
+
